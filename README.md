@@ -2,7 +2,7 @@
 
 Welcome to the analysis of a Retail Store using Microsoft Excel. This project aims to unravel intricate patterns, draw insights, gain deeper understanding of customer behavior as well as provide recommendations to 
 improve sales. 
-I utilized powerquery to clean and transform, pivot tables to analyze the data, after which I visualized the insights gotten from my analysis by creating a dashboard in Microsoft Excel.
+I utilized powerquery to clean and transform the data, pivot tables to analyze the data, after which I visualized the insights gotten from my analysis by creating a dashboard in Microsoft Excel.
 
 # Data Dictionary
 This dataset was gotten from Kaggle and contains 9 columns and 1000 rows.
