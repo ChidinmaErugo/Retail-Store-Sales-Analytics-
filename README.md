@@ -1,5 +1,5 @@
 # Retail-Store-Sales-Analytics-
-
+![](https://github.com/ChidinmaErugo/Retail-Store-Sales-Analytics-/blob/main/Retail%20Store%20Sales%20Analysis.JPG?raw=true)
 Welcome to the analysis of a Retail Store using Microsoft Excel. This project aims to unravel intricate patterns, draw insights, gain deeper understanding of customer behavior as well as provide recommendations to 
 improve sales. 
 I utilized powerquery to clean and transform the data, pivot tables to analyze the data, after which I visualized the insights gotten from my analysis by creating a dashboard in Microsoft Excel.
